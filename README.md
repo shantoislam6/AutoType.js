@@ -54,7 +54,6 @@ Customization
 ----
 
 ~~~ javascript
-~~~ javascript
 	autoTyping({
 	   container : document.querySelector('.auto-typing'),
 	 	text : ['Example One' , 'Example Tow', 'Example Three', 'Example Four' ,'Example More..'],
@@ -93,7 +92,7 @@ Customization
    	This property for set speed for your blink effect.
 	
    #### blinkType:
-   	There are two type of blink which I have used. The two blinkType property alues are 'default' & 'faltted';
+   	There are two type of blink which I have used. The two blinkType property alues are 'default' & 'faltted'.
 	You can use for chaniging your blink style..
 	
 	
