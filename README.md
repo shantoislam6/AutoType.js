@@ -2,7 +2,7 @@
 
 <h1 style="font-size:40px">AutoType Writer<h1>
 
-### [Live Demo](https://shantoislam6.github.io/AutoType.js/)
+### [Live Demo](https://shantoislam6.github.io/AutoType.js/index.html)
 
 autoType.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.
 
