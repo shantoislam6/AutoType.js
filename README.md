@@ -29,7 +29,7 @@ This is really all you need to get going.
 ~~~
 
 ~~~ javascript
-<script>
+
   	autoTyping({
 		container : document.querySelector('.auto-typing'),
 			 text : ['Example One' , 'Example Tow', 'Example Three', 'Example Four' ,'Example More..'],
@@ -42,7 +42,7 @@ This is really all you need to get going.
 		blinkType : 'default', // flatted;
 
 	}).start();
-</script>
+
 ~~~
 
 
@@ -66,17 +66,19 @@ Customization
            blinkType : 'default', ;
 
     }).start();
-    ~~~
-    #### container property :
+   ~~~
+    
+    
+  #### container property :
     	You have to must setup a container where you can be showing you text.
 	
-    #### text property:
+   #### text property:
     	You have to must setup this property including multiple text as a list of array.
 	
-    #### loop property:
+   #### loop property:
     	The loop property allows you to setup your list of text showing continuously. It's optional.
 
-    #### typeSpeed property:
+   #### typeSpeed property:
     	This property for a set of auto-typing speed.
 	
    #### loopSpeed property:
