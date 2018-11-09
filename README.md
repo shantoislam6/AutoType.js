@@ -11,7 +11,7 @@ autoType.js is a library that types. Enter in any string, and watch it type at t
 Installation
 ------------
 #### 1ST STEP:
-Download src file [click here](view-source:https://github.com/shantoislam6/AutoType.js)
+Download src file [click here] (view-source:https://github.com/shantoislam6/AutoType.js)
 #### 2ND STEP:
 After dowloade autoType.js libirary  first you have to link in your html document:
 
