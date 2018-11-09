@@ -19,6 +19,7 @@ Download src file
 After dowloade autoType.js libirary  first you have to link in your html document:
 
 ~~~html
+<link rel="stylesheet" href="src/min.autoType.1.0.0 .css">
 <script src="src/min.autoType.1.0.0.js"></script>
 ~~~
 
