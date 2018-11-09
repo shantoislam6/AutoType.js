@@ -76,16 +76,16 @@ Customization
     #### loop property:
     	The loop property allows you to setup your list of text showing continuously. It's optional.
 
-    #### loop typeSpeed:
+    #### typeSpeed property:
     	This property for a set of auto-typing speed.
 	
-   #### loop loopSpeed:
+   #### loopSpeed property:
     	This property for a set of changing new-text speed.
 	
    #### color property:
       This property allows you to set inviduale color for individual text of your text array.
       
-   #### blink : true   
+   #### blink property :    
       This property is optional.If you use this, you will show a blink effect.
 
    #### blinkSpeed:
