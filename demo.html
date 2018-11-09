@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+	<title>Auto Typing</title>
+	<link rel="stylesheet" href="src/min.autoType.1.0.0 .css">
+	<style type="text/css">
+		*{
+			margin: 0;padding:0;box-sizing: border-box;;
+		}
+		body{
+			font-family: sans-serif;  
+		}
+		div{
+			margin: 100px;
+			text-align: center;
+			position: relative;
+			height: 100vh;
+			padding: 40px;
+			background: #eee;
+		}
+	 h3{
+		 color: #000;
+		 font-size: 70px;
+		 font-weight: bold;
+		 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		 letter-spacing:12px;
+		 text-transform: uppercase;
+	 }
+	 a{
+		text-decoration: none;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%,-50%);
+		padding: 30px;
+		background: #fff;
+		font-weight: bold;
+		color: #000;
+		
+	 }
+	  
+	 a:hover{
+		background: rgb(226, 226, 226);
+	 }
+	</style>
+</head>
+<body>
+	<div>
+		 <h3 class="auto-typing" ></span></h3>
+		 <a href="https://github.com/shantoislam6/autoType-Writer/archive/master.zip">DOWNLOAD</a>
+	</div>
+	<script src="src/min.autoType.1.0.0.js"></script>
+	<script>
+	
+
+
+//documention :
+	autoTyping({
+		container : document.querySelector('.auto-typing'),
+			 text : ['Example One' , 'Example Tow', 'Example Three', 'Example Four' ,'Example More..'],
+			 loop : true, //optional
+		typeSpeed : 150,
+		loopSpeed : 700,
+			color : ['red','green','blue'],//optional
+			blink : true, //optional
+	   blinkSpeed : 400,
+		blinkType : 'default', // flatted;
+
+	}).start();
+		
+	
+
+	</script>
+</body>
+</html>

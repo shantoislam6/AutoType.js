@@ -1,0 +1,35 @@
+/**
+ * Owl Carousel v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+/*
+ *  AutoTyping - Core
+ */
+
+.a-t-c1{
+    display: inline-block;
+    margin-left: 5px;
+    background: #000;
+    position: absolute;
+    opacity: 1;
+    overflow: hidden;
+    width: 3px;
+}
+.a-t-c2{
+    display: inline-block;
+    margin-left: 5px;
+    background: #000;
+    position: absolute;
+    opacity: 1;
+    overflow: hidden;
+    width: 16px;
+    height: 5px;
+    margin-top: 33px;
+    
+}
+
+@keyframes blink-caret {
+    from, to { opacity:0; }
+    50% { opacity: 1; }
+  }
