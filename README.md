@@ -2,7 +2,7 @@
 
 <h1 style="font-size:40px">AutoType Writer<h1>
 
-### [Live Demo](http://www.mattboldt.com/demos/typed-js/)
+### [Live Demo](https://shantoislam6.github.io/AutoType.js/)
 
 autoType.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.
 
@@ -11,7 +11,7 @@ autoType.js is a library that types. Enter in any string, and watch it type at t
 Installation
 ------------
 #### 1ST STEP:
-Download src file [click here](https://github.com/shantoislam6/autoType-Writer/archive/master.zip)
+Download src file [click here](view-source:https://github.com/shantoislam6/AutoType.js)
 #### 2ND STEP:
 After dowloade autoType.js libirary  first you have to link in your html document:
 
