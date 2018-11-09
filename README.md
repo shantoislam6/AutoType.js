@@ -54,6 +54,49 @@ Customization
 ----
 
 ~~~ javascript
+~~~ javascript
+	autoTyping({
+	   container : document.querySelector('.auto-typing'),
+	 	text : ['Example One' , 'Example Tow', 'Example Three', 'Example Four' ,'Example More..'],
+		loop : true, 
+	   typeSpeed : 150,
+	   loopSpeed : 700,
+	       color : ['red','green','blue'],
+	       blink : true, 
+	  blinkSpeed : 400,
+           blinkType : 'default', ;
 
-~~~
+    }).start();
+    ~~~
+    #### container property :
+    	You have to must setup a container where you can be showing you text.
+	
+    #### text property:
+    	You have to must setup this property including multiple text as a list of array.
+	
+    #### loop property:
+    	The loop property allows you to setup your list of text showing continuously. It's optional.
+
+    #### loop typeSpeed:
+    	This property for a set of auto-typing speed.
+	
+   #### loop loopSpeed:
+    	This property for a set of changing new-text speed.
+	
+   #### color property:
+      This property allows you to set inviduale color for individual text of your text array.
+      
+   #### blink : true   
+      This property is optional.If you use this, you will show a blink effect.
+
+   #### blinkSpeed:
+   	This property for set speed for your blink effect.
+	
+   #### blinkType:
+   	There are two type of blink which I have used. The two blinkType property alues are 'default' & 'faltted';
+	You can use for chaniging your blink style..
+	
+	
+  
+
 
