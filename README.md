@@ -14,6 +14,7 @@ Installation
 Download src file [click here](https://github.com/shantoislam6/autoType-Writer/archive/master.zip)
 #### 2ND STEP:
 After dowloade autoType.js libirary  first you have to link in your html document:
+
 ~~~html
 <script src="src/min.autoType.1.0.0.js"></script>
 ~~~
@@ -69,33 +70,33 @@ Customization
    ~~~
     
     
-  #### container property :
-    	You have to must setup a container where you can be showing you text.
+  #### 'container' property :
+  You have to must setup a container where you can be showing you text.
 	
-   #### text property:
-    	You have to must setup this property including multiple text as a list of array.
+  #### 'text' property:
+  You have to must setup this property including multiple text as a list of array.
 	
-   #### loop property:
-    	The loop property allows you to setup your list of text showing continuously. It's optional.
+  #### 'loop' property:
+  The loop property allows you to setup your list of text showing continuously. It's optional.
 
-   #### typeSpeed property:
-    	This property for a set of auto-typing speed.
+  #### 'typeSpeed' property:
+  This property for a set of auto-typing speed.
 	
-   #### loopSpeed property:
-    	This property for a set of changing new-text speed.
+  #### 'loopSpeed' property:
+   This property for a set of changing new-text speed.
 	
-   #### color property:
-      This property allows you to set inviduale color for individual text of your text array.
+  #### 'color' property:
+  This property allows you to set inviduale color for individual text of your text array.
       
-   #### blink property :    
-      This property is optional.If you use this, you will show a blink effect.
+  #### 'blink' property :    
+  This property is optional.If you use this, you will show a blink effect.
 
-   #### blinkSpeed:
-   	This property for set speed for your blink effect.
+  #### 'blinkSpeed' property:
+  This property for set speed for your blink effect.
 	
-   #### blinkType:
-   	There are two type of blink which I have used. The two blinkType property alues are 'default' & 'faltted'.
-	You can use for chaniging your blink style..
+  #### 'blinkType' property:
+  There are two type of blink which I have used. The two blinkType property alues are 'default' & 'faltted'.
+  You can use for chaniging your blink style..
 	
 	
   
