@@ -4,7 +4,7 @@
 
 ### [Live Demo](https://shantoislam6.github.io/AutoType.js/index.html)
 
-autoType.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.
+autoType.js is a library that allows type text automatically. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.
 
 ---
 
