@@ -99,7 +99,7 @@ Customization
   This property for set speed for your blink effect.
 	
   #### 'blinkType' property:
-  There are two type of blink which I have used. The two blinkType property alues are 'default' & 'faltted'.
+  There are two type of blink which I have used. The two blinkType property vlues are 'default' & 'faltted'.
   You can use for chaniging your blink style..
 	
 	
