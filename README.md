@@ -90,7 +90,7 @@ Customization
    This property for a set of changing new-text speed.
 	
   #### 'color' property:
-  This property allows you to set inviduale color for individual text of your text array.
+  This property allows you to set individual color for individual text of your text array.
       
   #### 'blink' property :    
   This property is optional.If you use this, you will show a blink effect.
