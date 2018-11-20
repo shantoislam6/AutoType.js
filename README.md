@@ -75,7 +75,7 @@ Customization
     
     
   #### 'container' property :
-  You have to must setup a container where you can be showing you text.
+  You have to must setup a container where your can be showing you text.
 	
   #### 'text' property:
   You have to must setup this property including multiple text as a list of array.
